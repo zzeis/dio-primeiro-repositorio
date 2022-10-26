@@ -1,0 +1,41 @@
+Setar usuário:
+  git config --global user.name "----"
+
+Setar email:
+ git config --global user.email -----
+
+Git init: Iniciliza um repositório na pasta local.
+
+git add: Adiciona arquivo/diretório ao (staged).
+
+git add *: Adciona todos os arquivos/diretorios.
+
+git status: Verifica o estado dos arquivos.
+
+
+
+git commit -m ""
+
+
+*Vincular repositório local com um repositório remoto*
+
+git remote add origin git@github.com-------
+
+
+*Enviar arquivos/diretórios para o repositório remoto
+
+O primeiro push de um repositório deve conter o nome do repositório remoto e o branch.*
+
+git push -u origin master
+
+*Clonar um repositório remoto já existente*
+
+git clone git@github.com:leocomelli/curso-git.git
+
+
+
+Estados
+
+    Modificado (modified);
+    Preparado (staged/index)
+    Consolidado (comitted);
