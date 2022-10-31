@@ -1,3 +1,4 @@
+package edu.zeis.primeirosEX;
 
 public class BoletimEstudantil {
     public static void main(String[] args) {
