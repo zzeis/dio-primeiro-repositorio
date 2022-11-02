@@ -1,4 +1,4 @@
 ## Aprendizado Java - Terminais 👩‍💻
 
 ## 
-Lista de arquivos java buscando aprender mais sobre a execucao em terminais
+Arquivos escritos em java com o objetivo de aprender mais sobre a execução em terminais.
