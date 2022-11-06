@@ -4,7 +4,7 @@
  * relacionais, controle de fluxo e bloco
  */
 
-public class App {
+public class ControleFluxo {
     public static void main(String[] args) throws Exception {
 
         ifsemFlecha(); // ELSE-IF
